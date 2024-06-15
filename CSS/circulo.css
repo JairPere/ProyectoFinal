@@ -1,0 +1,8 @@
+.circular--square {
+    margin-inline-start: 5px;
+    font-size: 5px;
+    padding: 8px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
